@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5C82-4E97
+
+ Directory of C:\Users\Aashish\Desktop\JavaProject
+
+11-09-2020  23:00    <DIR>          .
+11-09-2020  23:00    <DIR>          ..
+11-09-2020  14:08               495 index.html
+11-09-2020  23:00                 0 main.txt
+11-09-2020  14:11               669 Name.class
+11-09-2020  13:17               124 Name.java
+11-09-2020  14:08               447 readme.txt
+               5 File(s)          1,735 bytes
+               2 Dir(s)  32,606,142,464 bytes free
